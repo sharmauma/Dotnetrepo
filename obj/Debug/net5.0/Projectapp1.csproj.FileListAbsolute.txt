@@ -1,0 +1,425 @@
+D:\Visual Studio Application\Projectapp1\bin\Debug\net5.0\appsettings.Development.json
+D:\Visual Studio Application\Projectapp1\bin\Debug\net5.0\appsettings.json
+D:\Visual Studio Application\Projectapp1\bin\Debug\net5.0\Projectapp1.StaticWebAssets.xml
+D:\Visual Studio Application\Projectapp1\bin\Debug\net5.0\Projectapp1.exe
+D:\Visual Studio Application\Projectapp1\bin\Debug\net5.0\Projectapp1.deps.json
+D:\Visual Studio Application\Projectapp1\bin\Debug\net5.0\Projectapp1.runtimeconfig.json
+D:\Visual Studio Application\Projectapp1\bin\Debug\net5.0\Projectapp1.runtimeconfig.dev.json
+D:\Visual Studio Application\Projectapp1\bin\Debug\net5.0\Projectapp1.dll
+D:\Visual Studio Application\Projectapp1\bin\Debug\net5.0\ref\Projectapp1.dll
+D:\Visual Studio Application\Projectapp1\bin\Debug\net5.0\Projectapp1.pdb
+D:\Visual Studio Application\Projectapp1\bin\Debug\net5.0\Projectapp1.Views.dll
+D:\Visual Studio Application\Projectapp1\bin\Debug\net5.0\Projectapp1.Views.pdb
+D:\Visual Studio Application\Projectapp1\bin\Debug\net5.0\Humanizer.dll
+D:\Visual Studio Application\Projectapp1\bin\Debug\net5.0\Microsoft.AspNetCore.Cryptography.Internal.dll
+D:\Visual Studio Application\Projectapp1\bin\Debug\net5.0\Microsoft.AspNetCore.Cryptography.KeyDerivation.dll
+D:\Visual Studio Application\Projectapp1\bin\Debug\net5.0\Microsoft.AspNetCore.Diagnostics.EntityFrameworkCore.dll
+D:\Visual Studio Application\Projectapp1\bin\Debug\net5.0\Microsoft.AspNetCore.Identity.EntityFrameworkCore.dll
+D:\Visual Studio Application\Projectapp1\bin\Debug\net5.0\Microsoft.AspNetCore.Identity.UI.Views.V4.dll
+D:\Visual Studio Application\Projectapp1\bin\Debug\net5.0\Microsoft.AspNetCore.Identity.UI.dll
+D:\Visual Studio Application\Projectapp1\bin\Debug\net5.0\Microsoft.Data.SqlClient.dll
+D:\Visual Studio Application\Projectapp1\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.dll
+D:\Visual Studio Application\Projectapp1\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+D:\Visual Studio Application\Projectapp1\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Design.dll
+D:\Visual Studio Application\Projectapp1\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Relational.dll
+D:\Visual Studio Application\Projectapp1\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+D:\Visual Studio Application\Projectapp1\bin\Debug\net5.0\Microsoft.Extensions.DependencyInjection.dll
+D:\Visual Studio Application\Projectapp1\bin\Debug\net5.0\Microsoft.Extensions.FileProviders.Embedded.dll
+D:\Visual Studio Application\Projectapp1\bin\Debug\net5.0\Microsoft.Extensions.Identity.Core.dll
+D:\Visual Studio Application\Projectapp1\bin\Debug\net5.0\Microsoft.Extensions.Identity.Stores.dll
+D:\Visual Studio Application\Projectapp1\bin\Debug\net5.0\Microsoft.Identity.Client.dll
+D:\Visual Studio Application\Projectapp1\bin\Debug\net5.0\Microsoft.IdentityModel.JsonWebTokens.dll
+D:\Visual Studio Application\Projectapp1\bin\Debug\net5.0\Microsoft.IdentityModel.Logging.dll
+D:\Visual Studio Application\Projectapp1\bin\Debug\net5.0\Microsoft.IdentityModel.Protocols.dll
+D:\Visual Studio Application\Projectapp1\bin\Debug\net5.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+D:\Visual Studio Application\Projectapp1\bin\Debug\net5.0\Microsoft.IdentityModel.Tokens.dll
+D:\Visual Studio Application\Projectapp1\bin\Debug\net5.0\Newtonsoft.Json.dll
+D:\Visual Studio Application\Projectapp1\bin\Debug\net5.0\System.Configuration.ConfigurationManager.dll
+D:\Visual Studio Application\Projectapp1\bin\Debug\net5.0\System.Diagnostics.DiagnosticSource.dll
+D:\Visual Studio Application\Projectapp1\bin\Debug\net5.0\System.IdentityModel.Tokens.Jwt.dll
+D:\Visual Studio Application\Projectapp1\bin\Debug\net5.0\System.Runtime.Caching.dll
+D:\Visual Studio Application\Projectapp1\bin\Debug\net5.0\System.Security.Cryptography.ProtectedData.dll
+D:\Visual Studio Application\Projectapp1\bin\Debug\net5.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+D:\Visual Studio Application\Projectapp1\bin\Debug\net5.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+D:\Visual Studio Application\Projectapp1\bin\Debug\net5.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+D:\Visual Studio Application\Projectapp1\bin\Debug\net5.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.pdb
+D:\Visual Studio Application\Projectapp1\bin\Debug\net5.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\Visual Studio Application\Projectapp1\bin\Debug\net5.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.pdb
+D:\Visual Studio Application\Projectapp1\bin\Debug\net5.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\Visual Studio Application\Projectapp1\bin\Debug\net5.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.pdb
+D:\Visual Studio Application\Projectapp1\bin\Debug\net5.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+D:\Visual Studio Application\Projectapp1\bin\Debug\net5.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.pdb
+D:\Visual Studio Application\Projectapp1\bin\Debug\net5.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+D:\Visual Studio Application\Projectapp1\bin\Debug\net5.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+D:\Visual Studio Application\Projectapp1\obj\Debug\net5.0\Projectapp1.csproj.AssemblyReference.cache
+D:\Visual Studio Application\Projectapp1\obj\Debug\net5.0\Projectapp1.GeneratedMSBuildEditorConfig.editorconfig
+D:\Visual Studio Application\Projectapp1\obj\Debug\net5.0\Projectapp1.AssemblyInfoInputs.cache
+D:\Visual Studio Application\Projectapp1\obj\Debug\net5.0\Projectapp1.AssemblyInfo.cs
+D:\Visual Studio Application\Projectapp1\obj\Debug\net5.0\Projectapp1.csproj.CoreCompileInputs.cache
+D:\Visual Studio Application\Projectapp1\obj\Debug\net5.0\Projectapp1.MvcApplicationPartsAssemblyInfo.cs
+D:\Visual Studio Application\Projectapp1\obj\Debug\net5.0\Projectapp1.MvcApplicationPartsAssemblyInfo.cache
+D:\Visual Studio Application\Projectapp1\obj\Debug\net5.0\Projectapp1.RazorAssemblyInfo.cache
+D:\Visual Studio Application\Projectapp1\obj\Debug\net5.0\Projectapp1.RazorAssemblyInfo.cs
+D:\Visual Studio Application\Projectapp1\obj\Debug\net5.0\staticwebassets\Projectapp1.StaticWebAssets.Manifest.cache
+D:\Visual Studio Application\Projectapp1\obj\Debug\net5.0\staticwebassets\Projectapp1.StaticWebAssets.xml
+D:\Visual Studio Application\Projectapp1\obj\Debug\net5.0\scopedcss\bundle\Projectapp1.styles.css
+D:\Visual Studio Application\Projectapp1\obj\Debug\net5.0\Projectapp1.TagHelpers.input.cache
+D:\Visual Studio Application\Projectapp1\obj\Debug\net5.0\Projectapp1.TagHelpers.output.cache
+D:\Visual Studio Application\Projectapp1\obj\Debug\net5.0\Projectapp1.RazorCoreGenerate.cache
+D:\Visual Studio Application\Projectapp1\obj\Debug\net5.0\Razor\Areas\Identity\Pages\_ViewStart.cshtml.g.cs
+D:\Visual Studio Application\Projectapp1\obj\Debug\net5.0\Razor\Views\Home\Index.cshtml.g.cs
+D:\Visual Studio Application\Projectapp1\obj\Debug\net5.0\Razor\Views\Home\Privacy.cshtml.g.cs
+D:\Visual Studio Application\Projectapp1\obj\Debug\net5.0\Razor\Views\Shared\Error.cshtml.g.cs
+D:\Visual Studio Application\Projectapp1\obj\Debug\net5.0\Razor\Views\Shared\_Layout.cshtml.g.cs
+D:\Visual Studio Application\Projectapp1\obj\Debug\net5.0\Razor\Views\Shared\_LoginPartial.cshtml.g.cs
+D:\Visual Studio Application\Projectapp1\obj\Debug\net5.0\Razor\Views\Shared\_ValidationScriptsPartial.cshtml.g.cs
+D:\Visual Studio Application\Projectapp1\obj\Debug\net5.0\Razor\Views\_ViewImports.cshtml.g.cs
+D:\Visual Studio Application\Projectapp1\obj\Debug\net5.0\Razor\Views\_ViewStart.cshtml.g.cs
+D:\Visual Studio Application\Projectapp1\obj\Debug\net5.0\Projectapp1.RazorTargetAssemblyInfo.cache
+D:\Visual Studio Application\Projectapp1\obj\Debug\net5.0\Projectapp1.RazorTargetAssemblyInfo.cs
+D:\Visual Studio Application\Projectapp1\obj\Debug\net5.0\Projectapp1.Views.pdb
+D:\Visual Studio Application\Projectapp1\obj\Debug\net5.0\Projectapp1.csproj.CopyComplete
+D:\Visual Studio Application\Projectapp1\obj\Debug\net5.0\Projectapp1.dll
+D:\Visual Studio Application\Projectapp1\obj\Debug\net5.0\ref\Projectapp1.dll
+D:\Visual Studio Application\Projectapp1\obj\Debug\net5.0\Projectapp1.pdb
+D:\Visual Studio Application\Projectapp1\obj\Debug\net5.0\Projectapp1.genruntimeconfig.cache
+C:\ProgramData\Jenkins\.jenkins\workspace\chetudotnet\bin\Debug\net5.0\appsettings.Development.json
+C:\ProgramData\Jenkins\.jenkins\workspace\chetudotnet\bin\Debug\net5.0\appsettings.json
+C:\ProgramData\Jenkins\.jenkins\workspace\chetudotnet\bin\Debug\net5.0\Projectapp1.StaticWebAssets.xml
+C:\ProgramData\Jenkins\.jenkins\workspace\chetudotnet\bin\Debug\net5.0\Projectapp1.exe
+C:\ProgramData\Jenkins\.jenkins\workspace\chetudotnet\bin\Debug\net5.0\Projectapp1.deps.json
+C:\ProgramData\Jenkins\.jenkins\workspace\chetudotnet\bin\Debug\net5.0\Projectapp1.runtimeconfig.json
+C:\ProgramData\Jenkins\.jenkins\workspace\chetudotnet\bin\Debug\net5.0\Projectapp1.runtimeconfig.dev.json
+C:\ProgramData\Jenkins\.jenkins\workspace\chetudotnet\bin\Debug\net5.0\Projectapp1.dll
+C:\ProgramData\Jenkins\.jenkins\workspace\chetudotnet\bin\Debug\net5.0\Projectapp1.pdb
+C:\ProgramData\Jenkins\.jenkins\workspace\chetudotnet\bin\Debug\net5.0\Projectapp1.Views.dll
+C:\ProgramData\Jenkins\.jenkins\workspace\chetudotnet\bin\Debug\net5.0\Projectapp1.Views.pdb
+C:\ProgramData\Jenkins\.jenkins\workspace\chetudotnet\bin\Debug\net5.0\Humanizer.dll
+C:\ProgramData\Jenkins\.jenkins\workspace\chetudotnet\bin\Debug\net5.0\Microsoft.AspNetCore.Cryptography.Internal.dll
+C:\ProgramData\Jenkins\.jenkins\workspace\chetudotnet\bin\Debug\net5.0\Microsoft.AspNetCore.Cryptography.KeyDerivation.dll
+C:\ProgramData\Jenkins\.jenkins\workspace\chetudotnet\bin\Debug\net5.0\Microsoft.AspNetCore.Diagnostics.EntityFrameworkCore.dll
+C:\ProgramData\Jenkins\.jenkins\workspace\chetudotnet\bin\Debug\net5.0\Microsoft.AspNetCore.Identity.EntityFrameworkCore.dll
+C:\ProgramData\Jenkins\.jenkins\workspace\chetudotnet\bin\Debug\net5.0\Microsoft.AspNetCore.Identity.UI.Views.V4.dll
+C:\ProgramData\Jenkins\.jenkins\workspace\chetudotnet\bin\Debug\net5.0\Microsoft.AspNetCore.Identity.UI.dll
+C:\ProgramData\Jenkins\.jenkins\workspace\chetudotnet\bin\Debug\net5.0\Microsoft.Data.SqlClient.dll
+C:\ProgramData\Jenkins\.jenkins\workspace\chetudotnet\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.dll
+C:\ProgramData\Jenkins\.jenkins\workspace\chetudotnet\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\ProgramData\Jenkins\.jenkins\workspace\chetudotnet\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Design.dll
+C:\ProgramData\Jenkins\.jenkins\workspace\chetudotnet\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\ProgramData\Jenkins\.jenkins\workspace\chetudotnet\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\ProgramData\Jenkins\.jenkins\workspace\chetudotnet\bin\Debug\net5.0\Microsoft.Extensions.DependencyInjection.dll
+C:\ProgramData\Jenkins\.jenkins\workspace\chetudotnet\bin\Debug\net5.0\Microsoft.Extensions.FileProviders.Embedded.dll
+C:\ProgramData\Jenkins\.jenkins\workspace\chetudotnet\bin\Debug\net5.0\Microsoft.Extensions.Identity.Core.dll
+C:\ProgramData\Jenkins\.jenkins\workspace\chetudotnet\bin\Debug\net5.0\Microsoft.Extensions.Identity.Stores.dll
+C:\ProgramData\Jenkins\.jenkins\workspace\chetudotnet\bin\Debug\net5.0\Microsoft.Identity.Client.dll
+C:\ProgramData\Jenkins\.jenkins\workspace\chetudotnet\bin\Debug\net5.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\ProgramData\Jenkins\.jenkins\workspace\chetudotnet\bin\Debug\net5.0\Microsoft.IdentityModel.Logging.dll
+C:\ProgramData\Jenkins\.jenkins\workspace\chetudotnet\bin\Debug\net5.0\Microsoft.IdentityModel.Protocols.dll
+C:\ProgramData\Jenkins\.jenkins\workspace\chetudotnet\bin\Debug\net5.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\ProgramData\Jenkins\.jenkins\workspace\chetudotnet\bin\Debug\net5.0\Microsoft.IdentityModel.Tokens.dll
+C:\ProgramData\Jenkins\.jenkins\workspace\chetudotnet\bin\Debug\net5.0\Newtonsoft.Json.dll
+C:\ProgramData\Jenkins\.jenkins\workspace\chetudotnet\bin\Debug\net5.0\System.Configuration.ConfigurationManager.dll
+C:\ProgramData\Jenkins\.jenkins\workspace\chetudotnet\bin\Debug\net5.0\System.Diagnostics.DiagnosticSource.dll
+C:\ProgramData\Jenkins\.jenkins\workspace\chetudotnet\bin\Debug\net5.0\System.IdentityModel.Tokens.Jwt.dll
+C:\ProgramData\Jenkins\.jenkins\workspace\chetudotnet\bin\Debug\net5.0\System.Runtime.Caching.dll
+C:\ProgramData\Jenkins\.jenkins\workspace\chetudotnet\bin\Debug\net5.0\System.Security.Cryptography.ProtectedData.dll
+C:\ProgramData\Jenkins\.jenkins\workspace\chetudotnet\bin\Debug\net5.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\ProgramData\Jenkins\.jenkins\workspace\chetudotnet\bin\Debug\net5.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\ProgramData\Jenkins\.jenkins\workspace\chetudotnet\bin\Debug\net5.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\ProgramData\Jenkins\.jenkins\workspace\chetudotnet\bin\Debug\net5.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\ProgramData\Jenkins\.jenkins\workspace\chetudotnet\bin\Debug\net5.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\ProgramData\Jenkins\.jenkins\workspace\chetudotnet\bin\Debug\net5.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\ProgramData\Jenkins\.jenkins\workspace\chetudotnet\bin\Debug\net5.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\ProgramData\Jenkins\.jenkins\workspace\chetudotnet\bin\Debug\net5.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\ProgramData\Jenkins\.jenkins\workspace\chetudotnet\bin\Debug\net5.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\ProgramData\Jenkins\.jenkins\workspace\chetudotnet\bin\Debug\net5.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\ProgramData\Jenkins\.jenkins\workspace\chetudotnet\bin\Debug\net5.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+C:\ProgramData\Jenkins\.jenkins\workspace\chetudotnet\bin\Debug\net5.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+C:\ProgramData\Jenkins\.jenkins\workspace\chetudotnet\obj\Debug\net5.0\Projectapp1.csproj.AssemblyReference.cache
+C:\ProgramData\Jenkins\.jenkins\workspace\chetudotnet\obj\Debug\net5.0\Projectapp1.GeneratedMSBuildEditorConfig.editorconfig
+C:\ProgramData\Jenkins\.jenkins\workspace\chetudotnet\obj\Debug\net5.0\Projectapp1.AssemblyInfoInputs.cache
+C:\ProgramData\Jenkins\.jenkins\workspace\chetudotnet\obj\Debug\net5.0\Projectapp1.AssemblyInfo.cs
+C:\ProgramData\Jenkins\.jenkins\workspace\chetudotnet\obj\Debug\net5.0\Projectapp1.csproj.CoreCompileInputs.cache
+C:\ProgramData\Jenkins\.jenkins\workspace\chetudotnet\obj\Debug\net5.0\Projectapp1.MvcApplicationPartsAssemblyInfo.cs
+C:\ProgramData\Jenkins\.jenkins\workspace\chetudotnet\obj\Debug\net5.0\Projectapp1.MvcApplicationPartsAssemblyInfo.cache
+C:\ProgramData\Jenkins\.jenkins\workspace\chetudotnet\obj\Debug\net5.0\Projectapp1.RazorAssemblyInfo.cache
+C:\ProgramData\Jenkins\.jenkins\workspace\chetudotnet\obj\Debug\net5.0\Projectapp1.RazorAssemblyInfo.cs
+C:\ProgramData\Jenkins\.jenkins\workspace\chetudotnet\obj\Debug\net5.0\scopedcss\bundle\Projectapp1.styles.css
+C:\ProgramData\Jenkins\.jenkins\workspace\chetudotnet\obj\Debug\net5.0\staticwebassets\Projectapp1.StaticWebAssets.Manifest.cache
+C:\ProgramData\Jenkins\.jenkins\workspace\chetudotnet\obj\Debug\net5.0\staticwebassets\Projectapp1.StaticWebAssets.xml
+C:\ProgramData\Jenkins\.jenkins\workspace\chetudotnet\obj\Debug\net5.0\Projectapp1.TagHelpers.input.cache
+C:\ProgramData\Jenkins\.jenkins\workspace\chetudotnet\obj\Debug\net5.0\Projectapp1.TagHelpers.output.cache
+C:\ProgramData\Jenkins\.jenkins\workspace\chetudotnet\obj\Debug\net5.0\Projectapp1.RazorCoreGenerate.cache
+C:\ProgramData\Jenkins\.jenkins\workspace\chetudotnet\obj\Debug\net5.0\Razor\Areas\Identity\Pages\_ViewStart.cshtml.g.cs
+C:\ProgramData\Jenkins\.jenkins\workspace\chetudotnet\obj\Debug\net5.0\Razor\Views\Home\Index.cshtml.g.cs
+C:\ProgramData\Jenkins\.jenkins\workspace\chetudotnet\obj\Debug\net5.0\Razor\Views\Home\Privacy.cshtml.g.cs
+C:\ProgramData\Jenkins\.jenkins\workspace\chetudotnet\obj\Debug\net5.0\Razor\Views\Shared\Error.cshtml.g.cs
+C:\ProgramData\Jenkins\.jenkins\workspace\chetudotnet\obj\Debug\net5.0\Razor\Views\Shared\_Layout.cshtml.g.cs
+C:\ProgramData\Jenkins\.jenkins\workspace\chetudotnet\obj\Debug\net5.0\Razor\Views\Shared\_LoginPartial.cshtml.g.cs
+C:\ProgramData\Jenkins\.jenkins\workspace\chetudotnet\obj\Debug\net5.0\Razor\Views\Shared\_ValidationScriptsPartial.cshtml.g.cs
+C:\ProgramData\Jenkins\.jenkins\workspace\chetudotnet\obj\Debug\net5.0\Razor\Views\_ViewImports.cshtml.g.cs
+C:\ProgramData\Jenkins\.jenkins\workspace\chetudotnet\obj\Debug\net5.0\Razor\Views\_ViewStart.cshtml.g.cs
+C:\ProgramData\Jenkins\.jenkins\workspace\chetudotnet\obj\Debug\net5.0\Projectapp1.RazorTargetAssemblyInfo.cache
+C:\ProgramData\Jenkins\.jenkins\workspace\chetudotnet\obj\Debug\net5.0\Projectapp1.RazorTargetAssemblyInfo.cs
+C:\ProgramData\Jenkins\.jenkins\workspace\chetudotnet\obj\Debug\net5.0\Projectapp1.Views.pdb
+C:\ProgramData\Jenkins\.jenkins\workspace\chetudotnet\obj\Debug\net5.0\Projectapp1.csproj.CopyComplete
+C:\ProgramData\Jenkins\.jenkins\workspace\chetudotnet\obj\Debug\net5.0\Projectapp1.dll
+C:\ProgramData\Jenkins\.jenkins\workspace\chetudotnet\obj\Debug\net5.0\refint\Projectapp1.dll
+C:\ProgramData\Jenkins\.jenkins\workspace\chetudotnet\obj\Debug\net5.0\Projectapp1.pdb
+C:\ProgramData\Jenkins\.jenkins\workspace\chetudotnet\obj\Debug\net5.0\Projectapp1.genruntimeconfig.cache
+C:\ProgramData\Jenkins\.jenkins\workspace\chetudotnet\obj\Debug\net5.0\ref\Projectapp1.dll
+C:\ProgramData\Jenkins\.jenkins\workspace\DotNetTest1\bin\Debug\net5.0\appsettings.Development.json
+C:\ProgramData\Jenkins\.jenkins\workspace\DotNetTest1\bin\Debug\net5.0\appsettings.json
+C:\ProgramData\Jenkins\.jenkins\workspace\DotNetTest1\bin\Debug\net5.0\Projectapp1.StaticWebAssets.xml
+C:\ProgramData\Jenkins\.jenkins\workspace\DotNetTest1\bin\Debug\net5.0\Projectapp1.exe
+C:\ProgramData\Jenkins\.jenkins\workspace\DotNetTest1\bin\Debug\net5.0\Projectapp1.deps.json
+C:\ProgramData\Jenkins\.jenkins\workspace\DotNetTest1\bin\Debug\net5.0\Projectapp1.runtimeconfig.json
+C:\ProgramData\Jenkins\.jenkins\workspace\DotNetTest1\bin\Debug\net5.0\Projectapp1.runtimeconfig.dev.json
+C:\ProgramData\Jenkins\.jenkins\workspace\DotNetTest1\bin\Debug\net5.0\Projectapp1.dll
+C:\ProgramData\Jenkins\.jenkins\workspace\DotNetTest1\bin\Debug\net5.0\Projectapp1.pdb
+C:\ProgramData\Jenkins\.jenkins\workspace\DotNetTest1\bin\Debug\net5.0\Projectapp1.Views.dll
+C:\ProgramData\Jenkins\.jenkins\workspace\DotNetTest1\bin\Debug\net5.0\Projectapp1.Views.pdb
+C:\ProgramData\Jenkins\.jenkins\workspace\DotNetTest1\bin\Debug\net5.0\Humanizer.dll
+C:\ProgramData\Jenkins\.jenkins\workspace\DotNetTest1\bin\Debug\net5.0\Microsoft.AspNetCore.Cryptography.Internal.dll
+C:\ProgramData\Jenkins\.jenkins\workspace\DotNetTest1\bin\Debug\net5.0\Microsoft.AspNetCore.Cryptography.KeyDerivation.dll
+C:\ProgramData\Jenkins\.jenkins\workspace\DotNetTest1\bin\Debug\net5.0\Microsoft.AspNetCore.Diagnostics.EntityFrameworkCore.dll
+C:\ProgramData\Jenkins\.jenkins\workspace\DotNetTest1\bin\Debug\net5.0\Microsoft.AspNetCore.Identity.EntityFrameworkCore.dll
+C:\ProgramData\Jenkins\.jenkins\workspace\DotNetTest1\bin\Debug\net5.0\Microsoft.AspNetCore.Identity.UI.Views.V4.dll
+C:\ProgramData\Jenkins\.jenkins\workspace\DotNetTest1\bin\Debug\net5.0\Microsoft.AspNetCore.Identity.UI.dll
+C:\ProgramData\Jenkins\.jenkins\workspace\DotNetTest1\bin\Debug\net5.0\Microsoft.Data.SqlClient.dll
+C:\ProgramData\Jenkins\.jenkins\workspace\DotNetTest1\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.dll
+C:\ProgramData\Jenkins\.jenkins\workspace\DotNetTest1\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\ProgramData\Jenkins\.jenkins\workspace\DotNetTest1\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Design.dll
+C:\ProgramData\Jenkins\.jenkins\workspace\DotNetTest1\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\ProgramData\Jenkins\.jenkins\workspace\DotNetTest1\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\ProgramData\Jenkins\.jenkins\workspace\DotNetTest1\bin\Debug\net5.0\Microsoft.Extensions.DependencyInjection.dll
+C:\ProgramData\Jenkins\.jenkins\workspace\DotNetTest1\bin\Debug\net5.0\Microsoft.Extensions.FileProviders.Embedded.dll
+C:\ProgramData\Jenkins\.jenkins\workspace\DotNetTest1\bin\Debug\net5.0\Microsoft.Extensions.Identity.Core.dll
+C:\ProgramData\Jenkins\.jenkins\workspace\DotNetTest1\bin\Debug\net5.0\Microsoft.Extensions.Identity.Stores.dll
+C:\ProgramData\Jenkins\.jenkins\workspace\DotNetTest1\bin\Debug\net5.0\Microsoft.Identity.Client.dll
+C:\ProgramData\Jenkins\.jenkins\workspace\DotNetTest1\bin\Debug\net5.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\ProgramData\Jenkins\.jenkins\workspace\DotNetTest1\bin\Debug\net5.0\Microsoft.IdentityModel.Logging.dll
+C:\ProgramData\Jenkins\.jenkins\workspace\DotNetTest1\bin\Debug\net5.0\Microsoft.IdentityModel.Protocols.dll
+C:\ProgramData\Jenkins\.jenkins\workspace\DotNetTest1\bin\Debug\net5.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\ProgramData\Jenkins\.jenkins\workspace\DotNetTest1\bin\Debug\net5.0\Microsoft.IdentityModel.Tokens.dll
+C:\ProgramData\Jenkins\.jenkins\workspace\DotNetTest1\bin\Debug\net5.0\Newtonsoft.Json.dll
+C:\ProgramData\Jenkins\.jenkins\workspace\DotNetTest1\bin\Debug\net5.0\System.Configuration.ConfigurationManager.dll
+C:\ProgramData\Jenkins\.jenkins\workspace\DotNetTest1\bin\Debug\net5.0\System.Diagnostics.DiagnosticSource.dll
+C:\ProgramData\Jenkins\.jenkins\workspace\DotNetTest1\bin\Debug\net5.0\System.IdentityModel.Tokens.Jwt.dll
+C:\ProgramData\Jenkins\.jenkins\workspace\DotNetTest1\bin\Debug\net5.0\System.Runtime.Caching.dll
+C:\ProgramData\Jenkins\.jenkins\workspace\DotNetTest1\bin\Debug\net5.0\System.Security.Cryptography.ProtectedData.dll
+C:\ProgramData\Jenkins\.jenkins\workspace\DotNetTest1\bin\Debug\net5.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\ProgramData\Jenkins\.jenkins\workspace\DotNetTest1\bin\Debug\net5.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\ProgramData\Jenkins\.jenkins\workspace\DotNetTest1\bin\Debug\net5.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\ProgramData\Jenkins\.jenkins\workspace\DotNetTest1\bin\Debug\net5.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\ProgramData\Jenkins\.jenkins\workspace\DotNetTest1\bin\Debug\net5.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\ProgramData\Jenkins\.jenkins\workspace\DotNetTest1\bin\Debug\net5.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\ProgramData\Jenkins\.jenkins\workspace\DotNetTest1\bin\Debug\net5.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\ProgramData\Jenkins\.jenkins\workspace\DotNetTest1\bin\Debug\net5.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\ProgramData\Jenkins\.jenkins\workspace\DotNetTest1\bin\Debug\net5.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\ProgramData\Jenkins\.jenkins\workspace\DotNetTest1\bin\Debug\net5.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\ProgramData\Jenkins\.jenkins\workspace\DotNetTest1\bin\Debug\net5.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+C:\ProgramData\Jenkins\.jenkins\workspace\DotNetTest1\bin\Debug\net5.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+C:\ProgramData\Jenkins\.jenkins\workspace\DotNetTest1\obj\Debug\net5.0\Projectapp1.csproj.AssemblyReference.cache
+C:\ProgramData\Jenkins\.jenkins\workspace\DotNetTest1\obj\Debug\net5.0\Projectapp1.GeneratedMSBuildEditorConfig.editorconfig
+C:\ProgramData\Jenkins\.jenkins\workspace\DotNetTest1\obj\Debug\net5.0\Projectapp1.AssemblyInfoInputs.cache
+C:\ProgramData\Jenkins\.jenkins\workspace\DotNetTest1\obj\Debug\net5.0\Projectapp1.AssemblyInfo.cs
+C:\ProgramData\Jenkins\.jenkins\workspace\DotNetTest1\obj\Debug\net5.0\Projectapp1.csproj.CoreCompileInputs.cache
+C:\ProgramData\Jenkins\.jenkins\workspace\DotNetTest1\obj\Debug\net5.0\Projectapp1.MvcApplicationPartsAssemblyInfo.cs
+C:\ProgramData\Jenkins\.jenkins\workspace\DotNetTest1\obj\Debug\net5.0\Projectapp1.MvcApplicationPartsAssemblyInfo.cache
+C:\ProgramData\Jenkins\.jenkins\workspace\DotNetTest1\obj\Debug\net5.0\Projectapp1.RazorAssemblyInfo.cache
+C:\ProgramData\Jenkins\.jenkins\workspace\DotNetTest1\obj\Debug\net5.0\Projectapp1.RazorAssemblyInfo.cs
+C:\ProgramData\Jenkins\.jenkins\workspace\DotNetTest1\obj\Debug\net5.0\scopedcss\bundle\Projectapp1.styles.css
+C:\ProgramData\Jenkins\.jenkins\workspace\DotNetTest1\obj\Debug\net5.0\staticwebassets\Projectapp1.StaticWebAssets.Manifest.cache
+C:\ProgramData\Jenkins\.jenkins\workspace\DotNetTest1\obj\Debug\net5.0\staticwebassets\Projectapp1.StaticWebAssets.xml
+C:\ProgramData\Jenkins\.jenkins\workspace\DotNetTest1\obj\Debug\net5.0\Projectapp1.TagHelpers.input.cache
+C:\ProgramData\Jenkins\.jenkins\workspace\DotNetTest1\obj\Debug\net5.0\Projectapp1.TagHelpers.output.cache
+C:\ProgramData\Jenkins\.jenkins\workspace\DotNetTest1\obj\Debug\net5.0\Projectapp1.RazorCoreGenerate.cache
+C:\ProgramData\Jenkins\.jenkins\workspace\DotNetTest1\obj\Debug\net5.0\Razor\Areas\Identity\Pages\_ViewStart.cshtml.g.cs
+C:\ProgramData\Jenkins\.jenkins\workspace\DotNetTest1\obj\Debug\net5.0\Razor\Views\Home\Index.cshtml.g.cs
+C:\ProgramData\Jenkins\.jenkins\workspace\DotNetTest1\obj\Debug\net5.0\Razor\Views\Home\Privacy.cshtml.g.cs
+C:\ProgramData\Jenkins\.jenkins\workspace\DotNetTest1\obj\Debug\net5.0\Razor\Views\Shared\Error.cshtml.g.cs
+C:\ProgramData\Jenkins\.jenkins\workspace\DotNetTest1\obj\Debug\net5.0\Razor\Views\Shared\_Layout.cshtml.g.cs
+C:\ProgramData\Jenkins\.jenkins\workspace\DotNetTest1\obj\Debug\net5.0\Razor\Views\Shared\_LoginPartial.cshtml.g.cs
+C:\ProgramData\Jenkins\.jenkins\workspace\DotNetTest1\obj\Debug\net5.0\Razor\Views\Shared\_ValidationScriptsPartial.cshtml.g.cs
+C:\ProgramData\Jenkins\.jenkins\workspace\DotNetTest1\obj\Debug\net5.0\Razor\Views\_ViewImports.cshtml.g.cs
+C:\ProgramData\Jenkins\.jenkins\workspace\DotNetTest1\obj\Debug\net5.0\Razor\Views\_ViewStart.cshtml.g.cs
+C:\ProgramData\Jenkins\.jenkins\workspace\DotNetTest1\obj\Debug\net5.0\Projectapp1.RazorTargetAssemblyInfo.cache
+C:\ProgramData\Jenkins\.jenkins\workspace\DotNetTest1\obj\Debug\net5.0\Projectapp1.RazorTargetAssemblyInfo.cs
+C:\ProgramData\Jenkins\.jenkins\workspace\DotNetTest1\obj\Debug\net5.0\Projectapp1.Views.pdb
+C:\ProgramData\Jenkins\.jenkins\workspace\DotNetTest1\obj\Debug\net5.0\Projectapp1.csproj.CopyComplete
+C:\ProgramData\Jenkins\.jenkins\workspace\DotNetTest1\obj\Debug\net5.0\Projectapp1.dll
+C:\ProgramData\Jenkins\.jenkins\workspace\DotNetTest1\obj\Debug\net5.0\refint\Projectapp1.dll
+C:\ProgramData\Jenkins\.jenkins\workspace\DotNetTest1\obj\Debug\net5.0\Projectapp1.pdb
+C:\ProgramData\Jenkins\.jenkins\workspace\DotNetTest1\obj\Debug\net5.0\Projectapp1.genruntimeconfig.cache
+C:\ProgramData\Jenkins\.jenkins\workspace\DotNetTest1\obj\Debug\net5.0\ref\Projectapp1.dll
+C:\ProgramData\Jenkins\.jenkins\workspace\DotNetTest1@2\bin\Debug\net5.0\appsettings.Development.json
+C:\ProgramData\Jenkins\.jenkins\workspace\DotNetTest1@2\bin\Debug\net5.0\appsettings.json
+C:\ProgramData\Jenkins\.jenkins\workspace\DotNetTest1@2\bin\Debug\net5.0\Projectapp1.StaticWebAssets.xml
+C:\ProgramData\Jenkins\.jenkins\workspace\DotNetTest1@2\bin\Debug\net5.0\Projectapp1.exe
+C:\ProgramData\Jenkins\.jenkins\workspace\DotNetTest1@2\bin\Debug\net5.0\Projectapp1.deps.json
+C:\ProgramData\Jenkins\.jenkins\workspace\DotNetTest1@2\bin\Debug\net5.0\Projectapp1.runtimeconfig.json
+C:\ProgramData\Jenkins\.jenkins\workspace\DotNetTest1@2\bin\Debug\net5.0\Projectapp1.runtimeconfig.dev.json
+C:\ProgramData\Jenkins\.jenkins\workspace\DotNetTest1@2\bin\Debug\net5.0\Projectapp1.dll
+C:\ProgramData\Jenkins\.jenkins\workspace\DotNetTest1@2\bin\Debug\net5.0\Projectapp1.pdb
+C:\ProgramData\Jenkins\.jenkins\workspace\DotNetTest1@2\bin\Debug\net5.0\Projectapp1.Views.dll
+C:\ProgramData\Jenkins\.jenkins\workspace\DotNetTest1@2\bin\Debug\net5.0\Projectapp1.Views.pdb
+C:\ProgramData\Jenkins\.jenkins\workspace\DotNetTest1@2\bin\Debug\net5.0\Humanizer.dll
+C:\ProgramData\Jenkins\.jenkins\workspace\DotNetTest1@2\bin\Debug\net5.0\Microsoft.AspNetCore.Cryptography.Internal.dll
+C:\ProgramData\Jenkins\.jenkins\workspace\DotNetTest1@2\bin\Debug\net5.0\Microsoft.AspNetCore.Cryptography.KeyDerivation.dll
+C:\ProgramData\Jenkins\.jenkins\workspace\DotNetTest1@2\bin\Debug\net5.0\Microsoft.AspNetCore.Diagnostics.EntityFrameworkCore.dll
+C:\ProgramData\Jenkins\.jenkins\workspace\DotNetTest1@2\bin\Debug\net5.0\Microsoft.AspNetCore.Identity.EntityFrameworkCore.dll
+C:\ProgramData\Jenkins\.jenkins\workspace\DotNetTest1@2\bin\Debug\net5.0\Microsoft.AspNetCore.Identity.UI.Views.V4.dll
+C:\ProgramData\Jenkins\.jenkins\workspace\DotNetTest1@2\bin\Debug\net5.0\Microsoft.AspNetCore.Identity.UI.dll
+C:\ProgramData\Jenkins\.jenkins\workspace\DotNetTest1@2\bin\Debug\net5.0\Microsoft.Data.SqlClient.dll
+C:\ProgramData\Jenkins\.jenkins\workspace\DotNetTest1@2\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.dll
+C:\ProgramData\Jenkins\.jenkins\workspace\DotNetTest1@2\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\ProgramData\Jenkins\.jenkins\workspace\DotNetTest1@2\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Design.dll
+C:\ProgramData\Jenkins\.jenkins\workspace\DotNetTest1@2\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\ProgramData\Jenkins\.jenkins\workspace\DotNetTest1@2\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\ProgramData\Jenkins\.jenkins\workspace\DotNetTest1@2\bin\Debug\net5.0\Microsoft.Extensions.DependencyInjection.dll
+C:\ProgramData\Jenkins\.jenkins\workspace\DotNetTest1@2\bin\Debug\net5.0\Microsoft.Extensions.FileProviders.Embedded.dll
+C:\ProgramData\Jenkins\.jenkins\workspace\DotNetTest1@2\bin\Debug\net5.0\Microsoft.Extensions.Identity.Core.dll
+C:\ProgramData\Jenkins\.jenkins\workspace\DotNetTest1@2\bin\Debug\net5.0\Microsoft.Extensions.Identity.Stores.dll
+C:\ProgramData\Jenkins\.jenkins\workspace\DotNetTest1@2\bin\Debug\net5.0\Microsoft.Identity.Client.dll
+C:\ProgramData\Jenkins\.jenkins\workspace\DotNetTest1@2\bin\Debug\net5.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\ProgramData\Jenkins\.jenkins\workspace\DotNetTest1@2\bin\Debug\net5.0\Microsoft.IdentityModel.Logging.dll
+C:\ProgramData\Jenkins\.jenkins\workspace\DotNetTest1@2\bin\Debug\net5.0\Microsoft.IdentityModel.Protocols.dll
+C:\ProgramData\Jenkins\.jenkins\workspace\DotNetTest1@2\bin\Debug\net5.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\ProgramData\Jenkins\.jenkins\workspace\DotNetTest1@2\bin\Debug\net5.0\Microsoft.IdentityModel.Tokens.dll
+C:\ProgramData\Jenkins\.jenkins\workspace\DotNetTest1@2\bin\Debug\net5.0\Newtonsoft.Json.dll
+C:\ProgramData\Jenkins\.jenkins\workspace\DotNetTest1@2\bin\Debug\net5.0\System.Configuration.ConfigurationManager.dll
+C:\ProgramData\Jenkins\.jenkins\workspace\DotNetTest1@2\bin\Debug\net5.0\System.Diagnostics.DiagnosticSource.dll
+C:\ProgramData\Jenkins\.jenkins\workspace\DotNetTest1@2\bin\Debug\net5.0\System.IdentityModel.Tokens.Jwt.dll
+C:\ProgramData\Jenkins\.jenkins\workspace\DotNetTest1@2\bin\Debug\net5.0\System.Runtime.Caching.dll
+C:\ProgramData\Jenkins\.jenkins\workspace\DotNetTest1@2\bin\Debug\net5.0\System.Security.Cryptography.ProtectedData.dll
+C:\ProgramData\Jenkins\.jenkins\workspace\DotNetTest1@2\bin\Debug\net5.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\ProgramData\Jenkins\.jenkins\workspace\DotNetTest1@2\bin\Debug\net5.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\ProgramData\Jenkins\.jenkins\workspace\DotNetTest1@2\bin\Debug\net5.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\ProgramData\Jenkins\.jenkins\workspace\DotNetTest1@2\bin\Debug\net5.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\ProgramData\Jenkins\.jenkins\workspace\DotNetTest1@2\bin\Debug\net5.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\ProgramData\Jenkins\.jenkins\workspace\DotNetTest1@2\bin\Debug\net5.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\ProgramData\Jenkins\.jenkins\workspace\DotNetTest1@2\bin\Debug\net5.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\ProgramData\Jenkins\.jenkins\workspace\DotNetTest1@2\bin\Debug\net5.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\ProgramData\Jenkins\.jenkins\workspace\DotNetTest1@2\bin\Debug\net5.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\ProgramData\Jenkins\.jenkins\workspace\DotNetTest1@2\bin\Debug\net5.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\ProgramData\Jenkins\.jenkins\workspace\DotNetTest1@2\bin\Debug\net5.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+C:\ProgramData\Jenkins\.jenkins\workspace\DotNetTest1@2\bin\Debug\net5.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+C:\ProgramData\Jenkins\.jenkins\workspace\DotNetTest1@2\obj\Debug\net5.0\Projectapp1.csproj.AssemblyReference.cache
+C:\ProgramData\Jenkins\.jenkins\workspace\DotNetTest1@2\obj\Debug\net5.0\Projectapp1.GeneratedMSBuildEditorConfig.editorconfig
+C:\ProgramData\Jenkins\.jenkins\workspace\DotNetTest1@2\obj\Debug\net5.0\Projectapp1.AssemblyInfoInputs.cache
+C:\ProgramData\Jenkins\.jenkins\workspace\DotNetTest1@2\obj\Debug\net5.0\Projectapp1.AssemblyInfo.cs
+C:\ProgramData\Jenkins\.jenkins\workspace\DotNetTest1@2\obj\Debug\net5.0\Projectapp1.csproj.CoreCompileInputs.cache
+C:\ProgramData\Jenkins\.jenkins\workspace\DotNetTest1@2\obj\Debug\net5.0\Projectapp1.MvcApplicationPartsAssemblyInfo.cs
+C:\ProgramData\Jenkins\.jenkins\workspace\DotNetTest1@2\obj\Debug\net5.0\Projectapp1.MvcApplicationPartsAssemblyInfo.cache
+C:\ProgramData\Jenkins\.jenkins\workspace\DotNetTest1@2\obj\Debug\net5.0\Projectapp1.RazorAssemblyInfo.cache
+C:\ProgramData\Jenkins\.jenkins\workspace\DotNetTest1@2\obj\Debug\net5.0\Projectapp1.RazorAssemblyInfo.cs
+C:\ProgramData\Jenkins\.jenkins\workspace\DotNetTest1@2\obj\Debug\net5.0\scopedcss\bundle\Projectapp1.styles.css
+C:\ProgramData\Jenkins\.jenkins\workspace\DotNetTest1@2\obj\Debug\net5.0\staticwebassets\Projectapp1.StaticWebAssets.Manifest.cache
+C:\ProgramData\Jenkins\.jenkins\workspace\DotNetTest1@2\obj\Debug\net5.0\staticwebassets\Projectapp1.StaticWebAssets.xml
+C:\ProgramData\Jenkins\.jenkins\workspace\DotNetTest1@2\obj\Debug\net5.0\Projectapp1.TagHelpers.input.cache
+C:\ProgramData\Jenkins\.jenkins\workspace\DotNetTest1@2\obj\Debug\net5.0\Projectapp1.TagHelpers.output.cache
+C:\ProgramData\Jenkins\.jenkins\workspace\DotNetTest1@2\obj\Debug\net5.0\Projectapp1.RazorCoreGenerate.cache
+C:\ProgramData\Jenkins\.jenkins\workspace\DotNetTest1@2\obj\Debug\net5.0\Razor\Areas\Identity\Pages\_ViewStart.cshtml.g.cs
+C:\ProgramData\Jenkins\.jenkins\workspace\DotNetTest1@2\obj\Debug\net5.0\Razor\Views\Home\Index.cshtml.g.cs
+C:\ProgramData\Jenkins\.jenkins\workspace\DotNetTest1@2\obj\Debug\net5.0\Razor\Views\Home\Privacy.cshtml.g.cs
+C:\ProgramData\Jenkins\.jenkins\workspace\DotNetTest1@2\obj\Debug\net5.0\Razor\Views\Shared\Error.cshtml.g.cs
+C:\ProgramData\Jenkins\.jenkins\workspace\DotNetTest1@2\obj\Debug\net5.0\Razor\Views\Shared\_Layout.cshtml.g.cs
+C:\ProgramData\Jenkins\.jenkins\workspace\DotNetTest1@2\obj\Debug\net5.0\Razor\Views\Shared\_LoginPartial.cshtml.g.cs
+C:\ProgramData\Jenkins\.jenkins\workspace\DotNetTest1@2\obj\Debug\net5.0\Razor\Views\Shared\_ValidationScriptsPartial.cshtml.g.cs
+C:\ProgramData\Jenkins\.jenkins\workspace\DotNetTest1@2\obj\Debug\net5.0\Razor\Views\_ViewImports.cshtml.g.cs
+C:\ProgramData\Jenkins\.jenkins\workspace\DotNetTest1@2\obj\Debug\net5.0\Razor\Views\_ViewStart.cshtml.g.cs
+C:\ProgramData\Jenkins\.jenkins\workspace\DotNetTest1@2\obj\Debug\net5.0\Projectapp1.RazorTargetAssemblyInfo.cache
+C:\ProgramData\Jenkins\.jenkins\workspace\DotNetTest1@2\obj\Debug\net5.0\Projectapp1.RazorTargetAssemblyInfo.cs
+C:\ProgramData\Jenkins\.jenkins\workspace\DotNetTest1@2\obj\Debug\net5.0\Projectapp1.Views.pdb
+C:\ProgramData\Jenkins\.jenkins\workspace\DotNetTest1@2\obj\Debug\net5.0\Projectapp1.csproj.CopyComplete
+C:\ProgramData\Jenkins\.jenkins\workspace\DotNetTest1@2\obj\Debug\net5.0\Projectapp1.dll
+C:\ProgramData\Jenkins\.jenkins\workspace\DotNetTest1@2\obj\Debug\net5.0\refint\Projectapp1.dll
+C:\ProgramData\Jenkins\.jenkins\workspace\DotNetTest1@2\obj\Debug\net5.0\Projectapp1.pdb
+C:\ProgramData\Jenkins\.jenkins\workspace\DotNetTest1@2\obj\Debug\net5.0\Projectapp1.genruntimeconfig.cache
+C:\ProgramData\Jenkins\.jenkins\workspace\DotNetTest1@2\obj\Debug\net5.0\ref\Projectapp1.dll
+C:\ProgramData\Jenkins\.jenkins\workspace\DotNetTest1@3\bin\Debug\net5.0\appsettings.Development.json
+C:\ProgramData\Jenkins\.jenkins\workspace\DotNetTest1@3\bin\Debug\net5.0\appsettings.json
+C:\ProgramData\Jenkins\.jenkins\workspace\DotNetTest1@3\bin\Debug\net5.0\Projectapp1.StaticWebAssets.xml
+C:\ProgramData\Jenkins\.jenkins\workspace\DotNetTest1@3\bin\Debug\net5.0\Projectapp1.exe
+C:\ProgramData\Jenkins\.jenkins\workspace\DotNetTest1@3\bin\Debug\net5.0\Projectapp1.deps.json
+C:\ProgramData\Jenkins\.jenkins\workspace\DotNetTest1@3\bin\Debug\net5.0\Projectapp1.runtimeconfig.json
+C:\ProgramData\Jenkins\.jenkins\workspace\DotNetTest1@3\bin\Debug\net5.0\Projectapp1.runtimeconfig.dev.json
+C:\ProgramData\Jenkins\.jenkins\workspace\DotNetTest1@3\bin\Debug\net5.0\Projectapp1.dll
+C:\ProgramData\Jenkins\.jenkins\workspace\DotNetTest1@3\bin\Debug\net5.0\Projectapp1.pdb
+C:\ProgramData\Jenkins\.jenkins\workspace\DotNetTest1@3\bin\Debug\net5.0\Projectapp1.Views.dll
+C:\ProgramData\Jenkins\.jenkins\workspace\DotNetTest1@3\bin\Debug\net5.0\Projectapp1.Views.pdb
+C:\ProgramData\Jenkins\.jenkins\workspace\DotNetTest1@3\bin\Debug\net5.0\Humanizer.dll
+C:\ProgramData\Jenkins\.jenkins\workspace\DotNetTest1@3\bin\Debug\net5.0\Microsoft.AspNetCore.Cryptography.Internal.dll
+C:\ProgramData\Jenkins\.jenkins\workspace\DotNetTest1@3\bin\Debug\net5.0\Microsoft.AspNetCore.Cryptography.KeyDerivation.dll
+C:\ProgramData\Jenkins\.jenkins\workspace\DotNetTest1@3\bin\Debug\net5.0\Microsoft.AspNetCore.Diagnostics.EntityFrameworkCore.dll
+C:\ProgramData\Jenkins\.jenkins\workspace\DotNetTest1@3\bin\Debug\net5.0\Microsoft.AspNetCore.Identity.EntityFrameworkCore.dll
+C:\ProgramData\Jenkins\.jenkins\workspace\DotNetTest1@3\bin\Debug\net5.0\Microsoft.AspNetCore.Identity.UI.Views.V4.dll
+C:\ProgramData\Jenkins\.jenkins\workspace\DotNetTest1@3\bin\Debug\net5.0\Microsoft.AspNetCore.Identity.UI.dll
+C:\ProgramData\Jenkins\.jenkins\workspace\DotNetTest1@3\bin\Debug\net5.0\Microsoft.Data.SqlClient.dll
+C:\ProgramData\Jenkins\.jenkins\workspace\DotNetTest1@3\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.dll
+C:\ProgramData\Jenkins\.jenkins\workspace\DotNetTest1@3\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\ProgramData\Jenkins\.jenkins\workspace\DotNetTest1@3\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Design.dll
+C:\ProgramData\Jenkins\.jenkins\workspace\DotNetTest1@3\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\ProgramData\Jenkins\.jenkins\workspace\DotNetTest1@3\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\ProgramData\Jenkins\.jenkins\workspace\DotNetTest1@3\bin\Debug\net5.0\Microsoft.Extensions.DependencyInjection.dll
+C:\ProgramData\Jenkins\.jenkins\workspace\DotNetTest1@3\bin\Debug\net5.0\Microsoft.Extensions.FileProviders.Embedded.dll
+C:\ProgramData\Jenkins\.jenkins\workspace\DotNetTest1@3\bin\Debug\net5.0\Microsoft.Extensions.Identity.Core.dll
+C:\ProgramData\Jenkins\.jenkins\workspace\DotNetTest1@3\bin\Debug\net5.0\Microsoft.Extensions.Identity.Stores.dll
+C:\ProgramData\Jenkins\.jenkins\workspace\DotNetTest1@3\bin\Debug\net5.0\Microsoft.Identity.Client.dll
+C:\ProgramData\Jenkins\.jenkins\workspace\DotNetTest1@3\bin\Debug\net5.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\ProgramData\Jenkins\.jenkins\workspace\DotNetTest1@3\bin\Debug\net5.0\Microsoft.IdentityModel.Logging.dll
+C:\ProgramData\Jenkins\.jenkins\workspace\DotNetTest1@3\bin\Debug\net5.0\Microsoft.IdentityModel.Protocols.dll
+C:\ProgramData\Jenkins\.jenkins\workspace\DotNetTest1@3\bin\Debug\net5.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\ProgramData\Jenkins\.jenkins\workspace\DotNetTest1@3\bin\Debug\net5.0\Microsoft.IdentityModel.Tokens.dll
+C:\ProgramData\Jenkins\.jenkins\workspace\DotNetTest1@3\bin\Debug\net5.0\Newtonsoft.Json.dll
+C:\ProgramData\Jenkins\.jenkins\workspace\DotNetTest1@3\bin\Debug\net5.0\System.Configuration.ConfigurationManager.dll
+C:\ProgramData\Jenkins\.jenkins\workspace\DotNetTest1@3\bin\Debug\net5.0\System.Diagnostics.DiagnosticSource.dll
+C:\ProgramData\Jenkins\.jenkins\workspace\DotNetTest1@3\bin\Debug\net5.0\System.IdentityModel.Tokens.Jwt.dll
+C:\ProgramData\Jenkins\.jenkins\workspace\DotNetTest1@3\bin\Debug\net5.0\System.Runtime.Caching.dll
+C:\ProgramData\Jenkins\.jenkins\workspace\DotNetTest1@3\bin\Debug\net5.0\System.Security.Cryptography.ProtectedData.dll
+C:\ProgramData\Jenkins\.jenkins\workspace\DotNetTest1@3\bin\Debug\net5.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\ProgramData\Jenkins\.jenkins\workspace\DotNetTest1@3\bin\Debug\net5.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\ProgramData\Jenkins\.jenkins\workspace\DotNetTest1@3\bin\Debug\net5.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\ProgramData\Jenkins\.jenkins\workspace\DotNetTest1@3\bin\Debug\net5.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\ProgramData\Jenkins\.jenkins\workspace\DotNetTest1@3\bin\Debug\net5.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\ProgramData\Jenkins\.jenkins\workspace\DotNetTest1@3\bin\Debug\net5.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\ProgramData\Jenkins\.jenkins\workspace\DotNetTest1@3\bin\Debug\net5.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\ProgramData\Jenkins\.jenkins\workspace\DotNetTest1@3\bin\Debug\net5.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\ProgramData\Jenkins\.jenkins\workspace\DotNetTest1@3\bin\Debug\net5.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\ProgramData\Jenkins\.jenkins\workspace\DotNetTest1@3\bin\Debug\net5.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\ProgramData\Jenkins\.jenkins\workspace\DotNetTest1@3\bin\Debug\net5.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+C:\ProgramData\Jenkins\.jenkins\workspace\DotNetTest1@3\bin\Debug\net5.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+C:\ProgramData\Jenkins\.jenkins\workspace\DotNetTest1@3\obj\Debug\net5.0\Projectapp1.csproj.AssemblyReference.cache
+C:\ProgramData\Jenkins\.jenkins\workspace\DotNetTest1@3\obj\Debug\net5.0\Projectapp1.GeneratedMSBuildEditorConfig.editorconfig
+C:\ProgramData\Jenkins\.jenkins\workspace\DotNetTest1@3\obj\Debug\net5.0\Projectapp1.AssemblyInfoInputs.cache
+C:\ProgramData\Jenkins\.jenkins\workspace\DotNetTest1@3\obj\Debug\net5.0\Projectapp1.AssemblyInfo.cs
+C:\ProgramData\Jenkins\.jenkins\workspace\DotNetTest1@3\obj\Debug\net5.0\Projectapp1.csproj.CoreCompileInputs.cache
+C:\ProgramData\Jenkins\.jenkins\workspace\DotNetTest1@3\obj\Debug\net5.0\Projectapp1.MvcApplicationPartsAssemblyInfo.cs
+C:\ProgramData\Jenkins\.jenkins\workspace\DotNetTest1@3\obj\Debug\net5.0\Projectapp1.MvcApplicationPartsAssemblyInfo.cache
+C:\ProgramData\Jenkins\.jenkins\workspace\DotNetTest1@3\obj\Debug\net5.0\Projectapp1.RazorAssemblyInfo.cache
+C:\ProgramData\Jenkins\.jenkins\workspace\DotNetTest1@3\obj\Debug\net5.0\Projectapp1.RazorAssemblyInfo.cs
+C:\ProgramData\Jenkins\.jenkins\workspace\DotNetTest1@3\obj\Debug\net5.0\scopedcss\bundle\Projectapp1.styles.css
+C:\ProgramData\Jenkins\.jenkins\workspace\DotNetTest1@3\obj\Debug\net5.0\staticwebassets\Projectapp1.StaticWebAssets.Manifest.cache
+C:\ProgramData\Jenkins\.jenkins\workspace\DotNetTest1@3\obj\Debug\net5.0\staticwebassets\Projectapp1.StaticWebAssets.xml
+C:\ProgramData\Jenkins\.jenkins\workspace\DotNetTest1@3\obj\Debug\net5.0\Projectapp1.TagHelpers.input.cache
+C:\ProgramData\Jenkins\.jenkins\workspace\DotNetTest1@3\obj\Debug\net5.0\Projectapp1.TagHelpers.output.cache
+C:\ProgramData\Jenkins\.jenkins\workspace\DotNetTest1@3\obj\Debug\net5.0\Projectapp1.RazorCoreGenerate.cache
+C:\ProgramData\Jenkins\.jenkins\workspace\DotNetTest1@3\obj\Debug\net5.0\Razor\Areas\Identity\Pages\_ViewStart.cshtml.g.cs
+C:\ProgramData\Jenkins\.jenkins\workspace\DotNetTest1@3\obj\Debug\net5.0\Razor\Views\Home\Index.cshtml.g.cs
+C:\ProgramData\Jenkins\.jenkins\workspace\DotNetTest1@3\obj\Debug\net5.0\Razor\Views\Home\Privacy.cshtml.g.cs
+C:\ProgramData\Jenkins\.jenkins\workspace\DotNetTest1@3\obj\Debug\net5.0\Razor\Views\Shared\Error.cshtml.g.cs
+C:\ProgramData\Jenkins\.jenkins\workspace\DotNetTest1@3\obj\Debug\net5.0\Razor\Views\Shared\_Layout.cshtml.g.cs
+C:\ProgramData\Jenkins\.jenkins\workspace\DotNetTest1@3\obj\Debug\net5.0\Razor\Views\Shared\_LoginPartial.cshtml.g.cs
+C:\ProgramData\Jenkins\.jenkins\workspace\DotNetTest1@3\obj\Debug\net5.0\Razor\Views\Shared\_ValidationScriptsPartial.cshtml.g.cs
+C:\ProgramData\Jenkins\.jenkins\workspace\DotNetTest1@3\obj\Debug\net5.0\Razor\Views\_ViewImports.cshtml.g.cs
+C:\ProgramData\Jenkins\.jenkins\workspace\DotNetTest1@3\obj\Debug\net5.0\Razor\Views\_ViewStart.cshtml.g.cs
+C:\ProgramData\Jenkins\.jenkins\workspace\DotNetTest1@3\obj\Debug\net5.0\Projectapp1.RazorTargetAssemblyInfo.cache
+C:\ProgramData\Jenkins\.jenkins\workspace\DotNetTest1@3\obj\Debug\net5.0\Projectapp1.RazorTargetAssemblyInfo.cs
+C:\ProgramData\Jenkins\.jenkins\workspace\DotNetTest1@3\obj\Debug\net5.0\Projectapp1.Views.pdb
+C:\ProgramData\Jenkins\.jenkins\workspace\DotNetTest1@3\obj\Debug\net5.0\Projectapp1.csproj.CopyComplete
+C:\ProgramData\Jenkins\.jenkins\workspace\DotNetTest1@3\obj\Debug\net5.0\Projectapp1.dll
+C:\ProgramData\Jenkins\.jenkins\workspace\DotNetTest1@3\obj\Debug\net5.0\refint\Projectapp1.dll
+C:\ProgramData\Jenkins\.jenkins\workspace\DotNetTest1@3\obj\Debug\net5.0\Projectapp1.pdb
+C:\ProgramData\Jenkins\.jenkins\workspace\DotNetTest1@3\obj\Debug\net5.0\Projectapp1.genruntimeconfig.cache
+C:\ProgramData\Jenkins\.jenkins\workspace\DotNetTest1@3\obj\Debug\net5.0\ref\Projectapp1.dll
